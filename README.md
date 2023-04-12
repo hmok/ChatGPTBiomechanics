@@ -1,5 +1,7 @@
 # ChatGPTBiomechanics
-Let's do ChatGPT OpenAI and Biomechanics
+Let's do ChatGPT OpenAI and Biomechanics.
+
+Below is my roadmap, though the applications are just some basic examples. They can be expanded to all sort of human/animal studies. Just keep updating as I make progress. It is all free to feel free to share or let me know if you have any improvement ideas. 
 
 ```mermaid
 graph TD;
